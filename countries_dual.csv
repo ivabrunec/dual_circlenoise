@@ -1,0 +1,162 @@
+,country_names,country_code,label,count,total_sum,island
+1,Afghanistan,af,0,1,1345,n
+2,Albania,al,0,1,1345,n
+3,Algeria,dz,0,2,1345,n
+4,Angola,ao,0,2,1345,n
+5,Armenia,am,0,1,1345,n
+6,Australia,au,0,29,1345,n
+7,Australia,au,1,84,542,n
+8,Azerbaijan,az,0,6,1345,n
+9,Bahrain,bh,0,1,1345,y
+10,Bangladesh,bd,0,4,1345,n
+11,Belarus,by,0,1,1345,n
+12,Benin,bj,0,2,1345,n
+13,Bhutan,bt,0,2,1345,n
+14,Bhutan,bt,1,3,542,n
+15,Bosnia & Herzegovina,ba,0,1,1345,n
+16,Botswana,bw,0,6,1345,n
+17,Botswana,bw,1,1,542,n
+18,Brunei,bn,0,1,1345,y
+19,Brunei,bn,1,1,542,y
+20,Burkina Faso,bf,0,17,1345,n
+21,Cambodia,kh,0,4,1345,n
+22,Cameroon,cm,0,52,1345,n
+23,Cameroon,cm,1,4,542,n
+24,Central African Republic,cf,0,17,1345,n
+25,Chad,td,0,22,1345,n
+26,Chad,td,1,2,542,n
+27,China,cn,0,61,1345,n
+28,China,cn,1,32,542,n
+29,Congo - Brazzaville,cg,0,9,1345,n
+30,Congo - Kinshasa,cd,0,54,1345,n
+31,Congo - Kinshasa,cd,1,1,542,n
+32,Cote d'Ivoire,ci,0,5,1345,n
+33,Cote d'Ivoire,ci,1,1,542,n
+34,Cyprus,cy,0,1,1345,y
+35,Czechia,cz,0,1,1345,n
+36,Denmark,dk,0,1,1345,n
+37,Egypt,eg,0,4,1345,n
+38,Equatorial Guinea,gq,0,4,1345,n
+39,Eritrea,er,0,2,1345,n
+40,Eritrea,er,1,1,542,n
+41,Estonia,ee,0,2,1345,n
+42,Ethiopia,et,0,44,1345,n
+43,Ethiopia,et,1,2,542,n
+44,Faroe Islands,fo,0,1,1345,y
+45,Fiji,fj,1,4,542,y
+46,Finland,fi,0,2,1345,n
+47,Finland,fi,1,1,542,n
+48,France,fr,0,5,1345,n
+49,France,fr,1,17,542,n
+50,Gabon,ga,0,3,1345,n
+51,Georgia,ge,0,5,1345,n
+52,Ghana,gh,0,13,1345,n
+53,Greece,gr,0,2,1345,n
+54,Greece,gr,1,1,542,n
+55,Guinea,gn,0,4,1345,n
+56,Guinea,gn,1,1,542,n
+57,Guinea-Bissau,gw,0,2,1345,n
+58,Hungary,hu,0,1,1345,n
+59,Iceland,is,0,1,1345,y
+60,India,in,0,97,1345,n
+61,India,in,1,35,542,n
+62,Indonesia,id,0,121,1345,y
+63,Indonesia,id,1,29,542,y
+64,Iran,ir,0,4,1345,n
+65,Iraq,iq,0,8,1345,n
+66,Ireland,ie,0,1,1345,y
+67,Israel,il,0,2,1345,n
+68,Italy,it,0,5,1345,n
+69,Japan,jp,0,9,1345,y
+70,Japan,jp,1,1,542,y
+71,Kenya,ke,0,23,1345,n
+72,Kiribati,ki,0,1,1345,y
+73,Laos,la,0,10,1345,n
+74,Laos,la,1,6,542,n
+75,Latvia,lv,0,2,1345,n
+76,Lebanon,lb,0,2,1345,n
+77,Liberia,lr,0,4,1345,n
+78,Libya,ly,0,2,1345,n
+79,Lithuania,lt,1,1,542,n
+80,Madagascar,mg,0,4,1345,y
+81,Malawi,mw,0,1,1345,n
+82,Malaysia,my,0,29,1345,y
+83,Malaysia,my,1,11,542,y
+84,Mali,ml,0,10,1345,n
+85,Malta,mt,0,1,1345,y
+86,Mauritania,mr,0,1,1345,n
+87,Micronesia (Federated States of),fm,0,7,1345,y
+88,Micronesia (Federated States of),fm,1,7,542,y
+89,Mongolia,mn,0,1,1345,n
+90,Morocco,ma,0,2,1345,n
+91,Mozambique,mz,0,10,1345,n
+92,Myanmar (Burma),mm,0,12,1345,n
+93,Myanmar (Burma),mm,1,14,542,n
+94,Namibia,na,0,5,1345,n
+95,Namibia,na,1,2,542,n
+96,Nauru,nr,1,1,542,y
+97,Nepal,np,0,19,1345,n
+98,Nepal,np,1,22,542,n
+99,Netherlands,nl,0,2,1345,n
+100,New Zealand,nz,1,1,542,y
+101,Niger,ne,0,6,1345,n
+102,Nigeria,ng,0,69,1345,n
+103,Nigeria,ng,1,2,542,n
+104,North Macedonia,mk,0,1,1345,n
+105,Oman,om,0,1,1345,n
+106,Pakistan,pk,0,3,1345,n
+107,Palau,pw,0,2,1345,y
+108,Papua New Guinea,pg,0,116,1345,y
+109,Papua New Guinea,pg,1,130,542,y
+110,Philippines,ph,0,71,1345,y
+111,Philippines,ph,1,7,542,y
+112,Poland,pl,0,1,1345,n
+113,Portugal,pt,0,1,1345,n
+114,Romania,ro,0,1,1345,n
+115,Russia,ru,0,56,1345,n
+116,Russia,ru,1,10,542,n
+117,Saudi Arabia,sa,1,1,542,n
+118,Senegal,sn,0,6,1345,n
+119,Senegal,sn,1,2,542,n
+120,Sierra Leone,sl,0,6,1345,n
+121,Slovenia,si,1,1,542,n
+122,Solomon Islands,sb,0,12,1345,y
+123,Solomon Islands,sb,1,36,542,y
+124,Somalia,so,0,2,1345,n
+125,South Africa,za,0,4,1345,n
+126,South Korea,kr,0,1,1345,n
+127,South Sudan,ss,0,16,1345,n
+128,Spain,es,0,2,1345,n
+129,Sri Lanka,lk,0,1,1345,y
+130,Sudan,sd,0,17,1345,n
+131,Sudan,sd,1,1,542,n
+132,Sweden,se,0,1,1345,n
+133,Sweden,se,1,4,542,n
+134,Switzerland,ch,0,1,1345,n
+135,Syria,sy,0,2,1345,n
+136,Syria,sy,1,1,542,n
+137,Taiwan,tw,0,19,1345,y
+138,Tajikistan,tj,0,1,1345,n
+139,Tanzania,tz,0,36,1345,n
+140,Thailand,th,0,14,1345,n
+141,Thailand,th,1,4,542,n
+142,Timor-Leste,tl,0,5,1345,y
+143,Timor-Leste,tl,1,2,542,y
+144,Togo,tg,0,3,1345,n
+145,Tunisia,tn,0,1,1345,n
+146,Turkey,tr,0,4,1345,n
+147,Tuvalu,tv,1,1,542,y
+148,Uganda,ug,0,14,1345,n
+149,Ukraine,ua,0,2,1345,n
+150,United Kingdom,gb,0,3,1345,y
+151,United States,us,0,2,1345,n
+152,Uzbekistan,uz,0,1,1345,n
+153,Vanuatu,vu,0,18,1345,y
+154,Vanuatu,vu,1,48,542,y
+155,Vatican City,va,0,1,1345,n
+156,Vietnam,vn,0,14,1345,n
+157,Vietnam,vn,1,5,542,n
+158,Yemen,ye,0,1,1345,n
+159,Zambia,zm,0,11,1345,n
+160,Zambia,zm,1,1,542,n
+161,Zimbabwe,zw,0,2,1345,n
